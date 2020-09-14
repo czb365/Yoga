@@ -3,7 +3,7 @@
 # This source code is licensed under the MIT license found in the
 # LICENSE file in the root directory of this source tree.
 
-version = "0.61.5"
+version = "1.14.0"
 
 source = { :git => ENV['INSTALL_YOGA_FROM_LOCATION'] || 'https://github.com/czb365/Yoga.git' }
 if version == '1000.0.0'
